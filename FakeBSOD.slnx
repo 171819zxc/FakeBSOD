@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="src/FakeBSOD.csproj" Id="a2b1d124-775b-42e9-b814-42e681d4e3e9">
+    <Platform Solution="Release|*" Project="x86" />
+  </Project>
+</Solution>
