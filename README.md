@@ -2,6 +2,7 @@
 
 字面意思
 啥也不是
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24e3ac2c-4139-442a-b54b-fdbf3772ce03" />
 
 ## ？！参参！？
 语法：`-mode:[options]`|`/mode:[options]`
